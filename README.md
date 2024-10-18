@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
+
+My name is Jae, I'm currently studying Computer Science, focusing on graphics and vision problems.
+
+I worked as TD in the VFX and animation industry for about 5years.
+I'm seeking a research opportunity to pursue a master's degree in 2025 Fall or 2026 Spring.
+
+My research interest is 
+- computational photography: relighting, scene understanding - mostly ML/DL for VFX
+- artwork generation such as style transfer, neural methods for painting, drawing, music, etc.
+- widely interested in specific applications of ML/DL for visual art.
 
 <!--
 **jaechoidev/jaechoidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
