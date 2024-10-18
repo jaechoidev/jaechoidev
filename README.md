@@ -1,9 +1,9 @@
 ## Hi there! 👋
 
-My name is Jae, I'm currently studying Computer Science, focusing on graphics and vision problems.
+My name is Jae. I'm currently studying Computer Science, focusing on graphics and vision problems.
 
-I worked as TD in the VFX and animation industry for about 5years.
-I'm seeking a research opportunity to pursue a master's degree in 2025 Fall or 2026 Spring.
+- I worked as TD in the VFX and animation industry for about five years.
+- I'm seeking a research opportunity to pursue a master's degree in 2025 Fall or 2026 Spring.
 
 My research interest is 
 - computational photography: relighting, scene understanding - mostly ML/DL for VFX
