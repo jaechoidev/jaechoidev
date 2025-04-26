@@ -3,7 +3,7 @@
 My name is Jae. I'm majoring in Computer Science, with a focus on graphics, vision problems, and machine learning.
 
 - I worked as a TD in the VFX and animation industry for about five years.
-I'm seeking a research opportunity to pursue a master's degree in the spring or fall of 2026.
+- I'm seeking a research opportunity to pursue a master's degree in the spring or fall of 2026.
 
 My research interest is 
 - Generative models
